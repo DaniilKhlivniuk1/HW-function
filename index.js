@@ -28,7 +28,7 @@ const logItems = function (numb) {
     }
     return lonegstWord;
   };
-  console.log(findLongestWord("Hello it's nice to meet you!"));
+  console.log(findLongestWord("Завдання 3 перевірка"));
 //   4
   const formatString = function (string) {
     let result = string;
