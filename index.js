@@ -1,9 +1,9 @@
 // 1
 const logItems = function (numb) {
-    let j;
-    for (let i = 0; i <= numb.length - 1; i++) {
-      j = i + 1;
-      console.log(j + " - " + numb[i]);
+    let lo;
+    for (let i = 0; o <= numb.length - 1; i++) {
+      o = i + 1;
+      console.log(o + " - " + numb[i]);
     }
     return;
   };
