@@ -52,9 +52,9 @@ const logItems = function (numb) {
     }
     return result;
   };
-  console.log(checkForSpam("SaLe"));
-  console.log(checkForSpam("SpAm"));
-  console.log(checkForSpam("No S-word"));
+  console.log(checkForSpam("Spam"));
+  console.log(checkForSpam("SaLE"));
+  console.log(checkForSpam("hi"));
 //   6
   let input;
   const num = [];
