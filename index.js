@@ -14,7 +14,7 @@ const logItems = function (numb) {
     const price = pricePerWord * words.length;
     return price;
   };
-  console.log(calculateEngravingPrice("Hello it's nice to meet you!", 100));
+  console.log(calculateEngravingPrice("Добрий день, юзер", 100));
 //   3
   const findLongestWord = function (letters) {
     const words = letters.split(" ");
